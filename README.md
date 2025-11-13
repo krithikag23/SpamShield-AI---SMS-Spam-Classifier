@@ -47,6 +47,7 @@ Format:
 - Labels → `ham` or `spam`  
 
 The dataset is automatically loaded using a direct URL in the Colab training script.
+
 ---
 
 ## 🧠 ML Model Details
