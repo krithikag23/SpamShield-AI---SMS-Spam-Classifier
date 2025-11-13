@@ -6,7 +6,6 @@ It includes a **full model training pipeline**, **saved model files**, and a **S
 This project uses a traditional NLP + ML pipeline (**CountVectorizer + Logistic Regression**) which is lightweight, extremely fast, and highly accurate for short text like SMS messages.
 
 SpamShield AI works completely offline — no API calls, no external dependencies, no dataset downloads manually.
-
 ---
 
 ## 🚀 Project Overview
