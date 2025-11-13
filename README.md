@@ -8,6 +8,7 @@ This project uses a traditional NLP + ML pipeline (**CountVectorizer + Logistic 
 SpamShield AI works completely offline — no API calls, no external dependencies, no dataset downloads manually.
 
 ---
+
 ## 🚀 Project Overview
 
 SpamShield AI aims to detect unwanted text messages using NLP.  
