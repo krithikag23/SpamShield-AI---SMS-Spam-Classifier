@@ -5,7 +5,6 @@ import joblib
 model = joblib.load("spam_model.pkl")
 vectorizer = joblib.load("spam_vectorizer.pkl")
 
-
 st.title("📩 SpamShield AI – SMS Spam Classifier")
 st.write("Enter a message to check whether it's spam or not.")
 
