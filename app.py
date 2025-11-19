@@ -1,5 +1,6 @@
 import streamlit as st
 import joblib
+
 # Load model & vectorizer
 model = joblib.load("spam_model.pkl")
 vectorizer = joblib.load("spam_vectorizer.pkl")
